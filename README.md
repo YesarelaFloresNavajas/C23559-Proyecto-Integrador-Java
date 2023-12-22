@@ -13,7 +13,7 @@ una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) centrada en la gestión
 
 ## Video Demostrativo
 
-[Video](https://) - demostración del proyecto.
+[Video]([https://](https://youtu.be/oWu8RuK4uvE)) - demostración del proyecto.
 
 ## Tecnologías Utilizadas
 
